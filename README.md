@@ -6,25 +6,33 @@ This project shows the implementation of basic image manipulations from OpenCV f
 
 ##Screenshot
 RGBA
+
 ![screenshot](rgba.png)
 
 Canny 
+
 ![screenshot](canny.png)
 
 Histogram
+
 ![screenshot](histo.png)
 
 Pixelize
+
 ![screenshot](pixel.png)
 
 Poster
+
 ![screenshot](poster.png)
 
 Sepia
+
 ![screenshot](sepia.png)
 
 Sobel
+
 ![screenshot](sobel.png)
 
 Zoom
+
 ![screenshot](zoom.png)
